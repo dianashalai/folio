@@ -1,0 +1,27 @@
+[
+  {
+    "name": "advertisement-demo.txt",
+    "category": "0953f14b-d1e2-4121-a211-8092cdcac5ee",
+    "score": 0.15465688837860245
+  },
+  {
+    "name": "insurance-demo.txt",
+    "category": "d8540ca7-a346-4c95-bc3e-f82c11913f1e",
+    "score": 0.2941100154568079
+  },
+  {
+    "name": "invoice-demo.txt",
+    "category": "f01c8c33-92d1-4d70-9522-e773518156f1",
+    "score": 0.17738150705167874
+  },
+  {
+    "name": "lab-demo.txt",
+    "category": "8e848f61-032e-44eb-96dd-f1a07db16c0c",
+    "score": 0.1670793494158115
+  },
+  {
+    "name": "resume-demo.txt",
+    "category": "0953f14b-d1e2-4121-a211-8092cdcac5ee",
+    "score": 0.15669350126617868
+  }
+]

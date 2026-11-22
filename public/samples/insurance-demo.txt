@@ -1,0 +1,12 @@
+INSURANCE CORRESPONDENCE
+Claim settlement letter
+Policy number: DEMO-POLICY
+Claim number: DEMO-CLAIM
+Dear policyholder,
+We have reviewed your insurance claim and the submitted documentation.
+Your claim has been approved. The settlement covers the damage under your insurance policy.
+Please contact the claims department with any questions about coverage or reimbursement.
+Yours sincerely,
+Example Insurance Claims Team
+
+Synthetic demonstration document. This is not a real insurance decision.

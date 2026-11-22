@@ -1,0 +1,12 @@
+LABORATORY TEST REPORT
+Patient: Example Person
+Specimen: Whole blood
+Test results and reference ranges
+Hemoglobin: 14.0 g/dL
+White blood cell count: 6.0
+Red blood cell count: 4.8
+Platelet count: 250
+Glucose: 90 mg/dL
+Laboratory analysis completed.
+
+Synthetic demonstration document. These illustrative values are not medical advice.

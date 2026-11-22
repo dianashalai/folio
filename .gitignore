@@ -1,0 +1,8 @@
+node_modules/
+dist/
+public/ocr/
+public/pdf.worker.min.mjs
+.DS_Store
+*.local
+.env*
+private-backup/

@@ -1,0 +1,13 @@
+RESUME
+Curriculum vitae
+Alex Example
+Professional summary
+Software developer with experience in project management and customer service.
+Work experience
+2023–2026: Software developer, Example Company.
+Education
+Bachelor of Science in Computer Science.
+Skills
+Python, SQL, data analysis, communication, teamwork.
+
+Synthetic demonstration document. All names and experience are fictional.

@@ -1,0 +1,12 @@
+INVOICE
+Invoice number: DEMO-1042
+Invoice date: 2026-11-12
+From: Example Office Supplies
+To: Example Studio
+
+Paper and stationery   EUR 80.00
+Office supplies        EUR 40.00
+Total amount: EUR 120.00
+Payment due within 14 days.
+
+Synthetic demonstration document. No real personal or financial data.
