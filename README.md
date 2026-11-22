@@ -1,6 +1,6 @@
 # Folio
 
-A trainable document organiser by **Diana Shalai**. Upload a document, extract its text, and sort it into a category learned from examples.
+A trainable document organiser by **Diana-Mariia Shevchenko**. Upload a document, extract its text, and sort it into a category learned from examples.
 
 **[Try the live demo](https://dianashalai.github.io/folio/)** · **[Watch the original recording](https://drive.google.com/file/d/1kwpkw0s2s_Xr4N_jTPark5ROJvvHdfmC/view)**
 
